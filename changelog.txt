@@ -1,2 +1,5 @@
-Hwid Getirldi
-Yazılar Fixledin
+## Versiyon 1.2.0
+- Menüdeki seçeneklerin işlevleri revize edildi.
+- Hakkımızda bölümüne ek bilgiler eklendi.
+- Spoofer seçeneği güncellendi.
+- Changelog dosyası kullanıcı için oluşturuldu.
