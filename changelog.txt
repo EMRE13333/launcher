@@ -4,3 +4,5 @@
 - Spoofer seçeneği güncellendi.
 - Changelog dosyası kullanıcı için oluşturuldu.
 - Hwid Sistemi Tazelendi
+- Değişiklik günlüğüne yazma işlevi geliştirildi.
+- Seçeneklerde renkli metinler kullanılmaya başlandı.
