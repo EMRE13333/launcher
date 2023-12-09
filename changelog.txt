@@ -6,3 +6,4 @@
 - Hwid Sistemi Tazelendi
 - Değişiklik günlüğüne yazma işlevi geliştirildi.
 - Seçeneklerde renkli metinler kullanılmaya başlandı.
+New Update YUPP
