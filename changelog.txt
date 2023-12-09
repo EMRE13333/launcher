@@ -3,3 +3,4 @@
 - Hakkımızda bölümüne ek bilgiler eklendi.
 - Spoofer seçeneği güncellendi.
 - Changelog dosyası kullanıcı için oluşturuldu.
+- Hwid Sistemi Tazelendi
