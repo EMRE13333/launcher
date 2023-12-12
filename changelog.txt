@@ -1,13 +1,17 @@
-Version 2.0 (2023-12-01):
-- Yeni özellik eklendi: Kullanıcı profilleri
-- Arayüzde iyileştirmeler yapıldı
-- Performans optimizasyonları
+### Sürüm 1.0.0
 
-Version 1.5 (2023-09-15):
-- Yeni tema eklendi: Koyu mod
-- Bazı hata düzeltmeleri yapıldı
-- Geliştirilmiş kullanıcı deneyimi
+- Yeni özellik: Koyu mod eklendi.
+- Yeni özellik: Beyaz mod eklendi.
+- Changelog gösterme özelliği eklendi.
+- Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.
 
-Version 1.0 (2023-05-20):
-- İlk sürüm yayınlandı
-- Temel özellikler eklendi: A, B, C
+### Sürüm 1.1.0
+
+- Yeni özellik: Renk seçenekleri geliştirildi.
+- Arayüz güncellemeleri yapıldı.
+- Kullanıcı deneyimi iyileştirmeleri yapıldı.
+
+### Sürüm 1.1.1
+
+- Hata düzeltmesi: Renk seçenekleri üzerindeki bazı hatalar giderildi.
+- Arayüzdeki küçük problemler düzeltildi.
