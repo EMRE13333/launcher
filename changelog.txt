@@ -1,9 +1,13 @@
-## Versiyon 1.2.0
-- Menüdeki seçeneklerin işlevleri revize edildi.
-- Hakkımızda bölümüne ek bilgiler eklendi.
-- Spoofer seçeneği güncellendi.
-- Changelog dosyası kullanıcı için oluşturuldu.
-- Hwid Sistemi Tazelendi
-- Değişiklik günlüğüne yazma işlevi geliştirildi.
-- Seçeneklerde renkli metinler kullanılmaya başlandı.
-New Update YUPP
+Version 2.0 (2023-12-01):
+- Yeni özellik eklendi: Kullanıcı profilleri
+- Arayüzde iyileştirmeler yapıldı
+- Performans optimizasyonları
+
+Version 1.5 (2023-09-15):
+- Yeni tema eklendi: Koyu mod
+- Bazı hata düzeltmeleri yapıldı
+- Geliştirilmiş kullanıcı deneyimi
+
+Version 1.0 (2023-05-20):
+- İlk sürüm yayınlandı
+- Temel özellikler eklendi: A, B, C
