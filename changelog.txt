@@ -1,17 +1,13 @@
-### Sürüm 1.0.0
+Versiyon 1.0.0 - 13 Aralık 2023
 
-- Yeni özellik: Koyu mod eklendi.
-- Yeni özellik: Beyaz mod eklendi.
-- Changelog gösterme özelliği eklendi.
-- Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.
+Yeni özellik eklendi: Kullanıcı profili oluşturma özelliği eklendi.
+Arayüz iyileştirmeleri yapıldı: Ana menü düzenlendi ve modern bir görünüm kazandırıldı.
+Performans iyileştirmeleri: Uygulama hızını artırmak için çeşitli optimizasyonlar yapıldı.
+Versiyon 0.2.1 - 5 Aralık 2023
 
-### Sürüm 1.1.0
+Hata düzeltmesi: Uygulama çökme sorunu giderildi.
+Güvenlik güncellemesi: Kullanıcı oturumları için ekstra şifreleme katmanı eklendi.
+Versiyon 0.2.0 - 28 Kasım 2023
 
-- Yeni özellik: Renk seçenekleri geliştirildi.
-- Arayüz güncellemeleri yapıldı.
-- Kullanıcı deneyimi iyileştirmeleri yapıldı.
-
-### Sürüm 1.1.1
-
-- Hata düzeltmesi: Renk seçenekleri üzerindeki bazı hatalar giderildi.
-- Arayüzdeki küçük problemler düzeltildi.
+Yeni özellik eklendi: Kullanıcı ayarları paneli eklendi.
+Kullanıcı deneyimi iyileştirmesi: Kullanıcı dostu arayüz tasarımı benimsendi.
