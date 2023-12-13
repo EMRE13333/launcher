@@ -3,3 +3,4 @@ Felectose Spoofer Version [2.0] - Değişiklik Günlüğü
 - TempSpoof özelliğinde yükleme ekranı kaldırıldı.
 - Felectose Spoofer başlığı eklendi.
 - Arayüzde bazı düzenlemeler yapıldı.
+y
