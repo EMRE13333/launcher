@@ -1,13 +1,5 @@
-Versiyon 1.0.0 - 13 Aralık 2023
+Felectose Spoofer Version [2.0] - Değişiklik Günlüğü
 
-Yeni özellik eklendi: Kullanıcı profili oluşturma özelliği eklendi.
-Arayüz iyileştirmeleri yapıldı: Ana menü düzenlendi ve modern bir görünüm kazandırıldı.
-Performans iyileştirmeleri: Uygulama hızını artırmak için çeşitli optimizasyonlar yapıldı.
-Versiyon 0.2.1 - 5 Aralık 2023
-
-Hata düzeltmesi: Uygulama çökme sorunu giderildi.
-Güvenlik güncellemesi: Kullanıcı oturumları için ekstra şifreleme katmanı eklendi.
-Versiyon 0.2.0 - 28 Kasım 2023
-
-Yeni özellik eklendi: Kullanıcı ayarları paneli eklendi.
-Kullanıcı deneyimi iyileştirmesi: Kullanıcı dostu arayüz tasarımı benimsendi.
+- TempSpoof özelliğinde yükleme ekranı kaldırıldı.
+- Felectose Spoofer başlığı eklendi.
+- Arayüzde bazı düzenlemeler yapıldı.
